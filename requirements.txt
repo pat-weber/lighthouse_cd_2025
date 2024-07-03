@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 pandas
 numpy
@@ -5,3 +6,12 @@ matplotlib
 seaborn
 scikit-learn
 
+=======
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+>>>>>>> 5bad7e3e9412148cdf21101097eba617859f1f7b
