@@ -9,7 +9,7 @@ Projeto para o programa Lighthouse promovido pela Indicium
 
 Para executar este projeto crie um ambiente virtual python versão 3.12.4 e instale o 'requirements.txt'.
 
-O briefing do projeto está na pasta 'external' em 'data'.
+As análises e modelo de previsão estão na pasta notebooks.
 
 O modelo produzido está em 'models'.
 
